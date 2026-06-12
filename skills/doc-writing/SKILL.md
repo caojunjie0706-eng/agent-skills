@@ -1,6 +1,6 @@
 ---
 name: doc-writing
-description: Business document writing, review, and rewriting methodology for Chinese/English workplace docs. Use when Codex needs to draft, improve, critique, summarize, or structure business documents, recurring updates, meeting materials, decision memos, story lines, strategy narratives, problem-analysis docs, or alignment/consensus documents; especially when the user asks for 写文档, 文档写作, 故事线, 业务汇报, 例会材料, 决策材料, 问题分析材料, 文档润色, or 文档 review.
+description: Business document writing, review, and rewriting methodology for Chinese/English workplace docs. Use when Codex needs to draft, improve, critique, summarize, or structure business documents, recurring updates, meeting materials, decision memos, practical how-to articles, newsletters, story lines, strategy narratives, problem-analysis docs, or alignment/consensus documents; especially when the user asks for 写文档, 文档写作, 故事线, 业务汇报, 例会材料, 决策材料, 问题分析材料, 实用周刊, AI 实用分享, 教程文章, 文档润色, or 文档 review.
 ---
 
 # Doc Writing
@@ -22,6 +22,7 @@ Use this skill to turn business information into a document that changes reader 
    - For business status materials: use 2.5 dimensions: overall state, growth/issue breakdown, one deep-dive case.
    - For recurring updates: use core metrics, trend changes, causes, next actions, blockers, responsible parties, and decision points.
    - For key problem or consensus docs: use problem definition, shared frame, arguments/evidence, aligned principles, and best practices.
+   - For practical how-to articles or newsletters: use scene pain point, core move, copyable prompt/process, before-after effect, failure modes, and next issue/action.
 
 4. Draft with conclusions first.
    - Make headings express viewpoints, not categories.
@@ -40,11 +41,12 @@ Use this skill to turn business information into a document that changes reader 
 - Use supply-side perspective for operating reviews where the goal is audit, completeness, or work inspection.
 - Do not synchronize everything. Prioritize problems, decisions, resource needs, conflicts, risks, and non-obvious progress.
 - Treat charts and tables as narrative devices. One chart/table should tell one story.
+- For practical sharing articles, optimize for "can readers try this in 15 minutes?" rather than comprehensive theory.
 - For review tasks, lead with issues: unclear goal, wrong audience, missing decision point, weak story line, noisy structure, unsupported claims, unquantified conclusions, or excessive jargon.
 
 ## References
 
 Read only the reference that matches the task:
 
-- `references/method.md`: full methodology for story lines, business breakdowns, decision materials, recurring updates, and review criteria.
+- `references/method.md`: full methodology for story lines, business breakdowns, decision materials, recurring updates, practical how-to articles, and review criteria.
 - `references/templates.md`: reusable outlines and checklists for drafting or reviewing documents.
