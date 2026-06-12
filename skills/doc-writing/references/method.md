@@ -90,23 +90,7 @@ Use this process:
 
 The target output is not just analysis; it is a shared principle and guidance that can shape future work.
 
-## 9. Practical How-To Articles And Newsletters
-
-Use this for lightweight internal or public sharing articles, newsletters, playbooks, and "one useful trick" posts.
-
-The reader expectation is not "be fully educated"; it is "I can try this quickly and avoid the obvious failure modes." Organize the article around:
-
-1. Promise: what practical outcome the reader gets, preferably with a time or quality contrast.
-2. Scene: the concrete moment where the problem happens. Start from a familiar pain, not the concept.
-3. Core move: the smallest reusable behavior, prompt, checklist, or process that changes the result.
-4. Copyable artifact: include the exact prompt, template, command, or checklist the reader can reuse.
-5. Before/after effect: show how the same task differs without and with the method.
-6. Failure modes: explain when the method breaks, what the reader must still verify, and what not to outsource.
-7. Continuation: close with the next action, next topic, or question that invites feedback.
-
-Write in short, direct sections. Use one idea per section. Avoid turning a practical article into a complete theory paper; link or defer deeper concepts unless they are necessary for the reader to execute.
-
-## 10. Expression Rules
+## 9. Expression Rules
 
 - Write viewpoint headings, not neutral labels.
 - Put conclusions first.
@@ -116,7 +100,7 @@ Write in short, direct sections. Use one idea per section. Avoid turning a pract
 - Use charts only when they reduce cognitive load. Tables are best for comparison; diagrams are best for relationships. Each visual should tell one story.
 - Before publishing reusable or public material, remove company names, personal names, internal links, exact confidential metrics, proprietary project names, customer-identifying details, and access paths.
 
-## 11. Review Criteria
+## 10. Review Criteria
 
 Review a document against these questions:
 
@@ -127,6 +111,4 @@ Review a document against these questions:
 - Is the business broken down by the most revealing dimension?
 - Are claims supported by evidence, and are data/user-research biases considered?
 - Are risks, conflicts, decision points, responsible parties, and support needs explicit?
-- For practical articles, can the reader copy one artifact and try the method within 15 minutes?
-- Are failure modes and verification duties explicit?
 - Can 20-30% of the words be removed without losing meaning?
