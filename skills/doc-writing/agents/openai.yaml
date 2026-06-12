@@ -1,0 +1,4 @@
+interface:
+  display_name: "文档写作"
+  short_description: "构建业务文档、故事线与决策材料"
+  default_prompt: "Use $doc-writing to draft or improve a business document with a clear story line, decision points, and concise evidence."
