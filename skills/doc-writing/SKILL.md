@@ -9,9 +9,11 @@ Use this skill to turn business information into a document that changes reader 
 
 ## Core Workflow
 
-1. Clarify intent before writing.
-   - Ask or infer: why write this, who reads it, why do they care, and what decision or action should follow.
-   - If the expected outcome is unclear, produce a short "目标/受众/决策点" preface before drafting.
+1. Clarify intent before writing. **Do not start drafting on the first request.**
+   - You must know four things: why write this, who reads it, why they care, and what decision or action should follow.
+   - If any of them is unclear from the request, **stop and ask the user up to 2-3 focused questions first.** Do not silently infer and write.
+   - Only skip the questions when the request already supplies all four; in that case, restate them in a one-line "目标/受众/决策点" preface and confirm before drafting.
+   - Never fabricate data, metrics, or facts to fill gaps. If information is missing, ask for it.
 
 2. Build the story line before the document.
    - Write a 300-400 Chinese character story line when creating substantial materials.
@@ -44,7 +46,7 @@ Use this skill to turn business information into a document that changes reader 
 
 ## References
 
-Read only the reference that matches the task:
+Read only the reference that matches the task. **Match the language to the user: use the `.zh.md` files when working in Chinese, the English files otherwise.**
 
-- `references/method.md`: full methodology for story lines, business breakdowns, decision materials, recurring updates, and review criteria.
-- `references/templates.md`: reusable outlines and checklists for drafting or reviewing documents.
+- `references/method.md` / `references/method.zh.md`: full methodology for story lines, business breakdowns, decision materials, recurring updates, and review criteria.
+- `references/templates.md` / `references/templates.zh.md`: reusable outlines and checklists for drafting or reviewing documents.
